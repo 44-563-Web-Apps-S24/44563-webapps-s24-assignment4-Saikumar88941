@@ -23,5 +23,14 @@
 .ferapont {
     color: #006600;
 }
+.character-table{
+    border: #990000;
+    width: 100px;
+    border: 1px;
+    text-align: left;
+    padding: 8px;
+    background-color: aqua;
+    margin: 0px;
+}
 
 
