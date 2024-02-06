@@ -9,6 +9,8 @@
     size: 20px;
     color: black;
 }
+.name{}
+
 .direction:hover {
     background-color: greenyellow;
     color: pink;
@@ -17,20 +19,41 @@
 .anfisa {
     color: #336699;
 }
+.anfisa:hover{
+    text-shadow: 3px 3px red;
+    filter: blur(0.25px);
+    border:1px solid black;
+    width: fit-content;
+
+}    
+
 .olga {
     color: #990000;
+}
+.olga:hover{
+    text-shadow: 3px 3px aquamarine;
+    filter:blur(0.25px);
+    border:1px solid black;
+    width:fit-content;
 }
 .ferapont {
     color: #006600;
 }
-.character-table{
-    border: #990000;
+.ferapont:hover {
+    text-shadow: red;
+    filter:blur(0.25px);
+    border:1px solid black;
+    width:fit-content;
+
+}
+table,th,td {
+    border: 1px pink;
+    border-collapse: collapse;
     width: 100px;
-    border: 1px;
-    text-align: left;
+    border-color: #336699;
+    text-align: center;
     padding: 8px;
-    background-color: aqua;
-    margin: 0px;
+    margin: 1px;
 }
 
 
