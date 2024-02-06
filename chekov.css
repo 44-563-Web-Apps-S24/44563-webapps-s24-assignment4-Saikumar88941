@@ -47,8 +47,9 @@
     width:fit-content;
 
 }
-table,th,td {
-    border: 1px pink;
+
+table, th, td {
+    border: 1px solid;
     border-collapse: collapse;
     width: 100px;
     border-color: #336699;
