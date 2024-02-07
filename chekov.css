@@ -47,6 +47,16 @@
     width:fit-content;
 
 }
+.natasha {
+    color: green;
+}
+.natasha:hover {
+    text-shadow: yellow;
+    filter:blur(0.25px);
+    border:1px solid black;
+    width:fit-content;
+
+}
 
 table, th, td {
     border: 1px solid;
