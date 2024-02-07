@@ -18,10 +18,10 @@
     color: pink;
 
 }
-.anfisa {
+.ANFISA {
     color: #336699;
 }
-.anfisa:hover{
+.ANFISA:hover{
     text-shadow: 3px 3px red;
     filter: blur(0.25px);
     border:1px solid black;
@@ -29,29 +29,29 @@
 
 }    
 
-.olga {
+.OLGA {
     color: #990000;
 }
-.olga:hover{
+.OLGA:hover{
     text-shadow: 3px 3px aquamarine;
     filter:blur(0.25px);
     border:1px solid black;
     width:fit-content;
 }
-.ferapont {
+.FERAPONT {
     color: #006600;
 }
-.ferapont:hover {
+.FERAPONT:hover {
     text-shadow: red;
     filter:blur(0.25px);
     border:1px solid black;
     width:fit-content;
 
 }
-.natasha {
+.NATASHA {
     color: green;
 }
-.natasha:hover {
+.NATASHA:hover {
     text-shadow: yellow;
     filter:blur(0.25px);
     border:1px solid black;
